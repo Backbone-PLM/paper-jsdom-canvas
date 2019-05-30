@@ -21,7 +21,7 @@
   "dependencies": {
     "canvas": "^1.3.5",
     "jsdom": "^9.4.0",
-    "paper": "0.11.4",
+    "paper": "git+https://github.com/Backbone-PLM/paper.js.git#develop",
     "source-map-support": "^0.4.0"
   },
   "keywords": [
